@@ -1,6 +1,6 @@
 {
   "name": "@geolonia/maplibre-fork-me-control",
-  "version": "0.3.1",
+  "version": "0.3.3",
   "description": "This is MapLibre GL JS plugin to add GitHub's fork-me ribbon.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
