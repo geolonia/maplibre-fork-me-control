@@ -18,6 +18,10 @@
     "screenshot": "npm run build && playwright test --config=scripts/playwright.screenshot.config.ts",
     "prepublishOnly": "npm run build"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/geolonia/maplibre-fork-me-control.git"
+  },
   "author": "Geolonia Inc.",
   "license": "MIT",
   "peerDependencies": {
